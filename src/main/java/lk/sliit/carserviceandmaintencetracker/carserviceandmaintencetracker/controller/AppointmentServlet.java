@@ -1,4 +1,4 @@
-package com.app.carmaintenance.car_maintenance.controller;
+package lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.controller;
 
 import com.app.carmaintenance.car_maintenance.model.AppointmentModel;
 import com.app.carmaintenance.car_maintenance.util.AppointmentUtil;
