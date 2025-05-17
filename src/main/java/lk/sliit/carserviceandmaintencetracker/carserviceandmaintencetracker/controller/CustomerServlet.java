@@ -1,4 +1,4 @@
-package     com.app.carmaintenance.car_maintenance.controller;
+package lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.controller;
 
 import com.app.carmaintenance.car_maintenance.dao.CustomerDAO;
 import com.app.carmaintenance.car_maintenance.model.CustomerModel;
