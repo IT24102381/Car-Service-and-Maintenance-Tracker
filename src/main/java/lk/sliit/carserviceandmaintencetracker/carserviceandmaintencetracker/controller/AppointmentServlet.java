@@ -1,6 +1,5 @@
 package lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.controller;
 
-import com.app.carmaintenance.car_maintenance.model.AppointmentModel;
 import com.app.carmaintenance.car_maintenance.util.AppointmentUtil;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
