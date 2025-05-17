@@ -1,6 +1,6 @@
 <%@ page import="com.app.carmaintenance.car_maintenance.util.VehicleUtil" %>
 <%@ page import="com.app.carmaintenance.car_maintenance.model.VehicleModel" %>
-<%@ page import="com.app.carmaintenance.car_maintenance.model.ServiceRecord" %>
+<%@ page import="lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.model.ServiceRecord" %>
 <%@ page import="com.app.carmaintenance.car_maintenance.util.UserUtil" %>
 <%@ page import="com.app.carmaintenance.car_maintenance.model.UserModel" %>
 <%@ page contentType="text/html;charset=UTF-8" %>
