@@ -1,8 +1,8 @@
-<%@ page import="com.app.carmaintenance.car_maintenance.util.VehicleUtil" %>
-<%@ page import="com.app.carmaintenance.car_maintenance.model.VehicleModel" %>
+<%@ page import="lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.util.VehicleUtil" %>
+<%@ page import="lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.model.VehicleModel" %>
 <%@ page import="lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.model.ServiceRecord" %>
 <%@ page import="lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.util.UserUtil" %>
-<%@ page import="com.app.carmaintenance.car_maintenance.model.UserModel" %>
+<%@ page import="lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.model.UserModel" %>
 <%@ page contentType="text/html;charset=UTF-8" %>
 <%@ page language="java" %>
 <!DOCTYPE html>

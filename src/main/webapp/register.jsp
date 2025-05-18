@@ -1,4 +1,4 @@
-<%@ page import="com.app.carmaintenance.car_maintenance.model.UserModel" %>
+<%@ page import="lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.model.UserModel" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <!DOCTYPE html>
 <html lang="en">
