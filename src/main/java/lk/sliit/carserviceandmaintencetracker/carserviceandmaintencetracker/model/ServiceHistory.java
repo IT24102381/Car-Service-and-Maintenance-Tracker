@@ -1,4 +1,4 @@
-package com.app.carmaintenance.car_maintenance.model;
+package lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.model;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
