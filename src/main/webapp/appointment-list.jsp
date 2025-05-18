@@ -1,4 +1,4 @@
-<%@ page import="com.app.carmaintenance.car_maintenance.model.AppointmentModel" %>
+<%@ page import="lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.model.AppointmentModel" %>
 <%@ page import="java.util.List" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 
@@ -31,10 +31,10 @@
         <tbody>
         <%
             List<AppointmentModel> appointments =
-                    (List<com.app.carmaintenance.car_maintenance.model.AppointmentModel>) request.getAttribute("appointments");
+                    (List<lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.model.AppointmentModel>) request.getAttribute("appointments");
 
             if (appointments != null && !appointments.isEmpty()) {
-                for (com.app.carmaintenance.car_maintenance.model.AppointmentModel appointment : appointments) {
+                for (lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.model.AppointmentModel appointment : appointments) {
         %>
         <tr>
             <td><%= appointment.getId() %></td>
