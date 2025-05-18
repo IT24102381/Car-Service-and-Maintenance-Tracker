@@ -1,9 +1,9 @@
 package lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.controller;
 
-import com.app.carmaintenance.car_maintenance.model.UserModel;
-import com.app.carmaintenance.car_maintenance.model.VehicleModel;
-import com.app.carmaintenance.car_maintenance.util.Config;
-import com.app.carmaintenance.car_maintenance.util.FileUtil;
+import lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.model.UserModel;
+import lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.model.VehicleModel;
+import lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.util.Config;
+import lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.util.FileUtil;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;

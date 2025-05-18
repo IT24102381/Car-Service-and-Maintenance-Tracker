@@ -1,8 +1,8 @@
 package lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.controller;
 
-import com.app.carmaintenance.car_maintenance.dao.CustomerDAO;
-import com.app.carmaintenance.car_maintenance.model.CustomerModel;
-import com.app.carmaintenance.car_maintenance.model.UserModel;
+import lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.DAO.CustomerDAO;
+import lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.model.CustomerModel;
+import lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.model.UserModel;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
