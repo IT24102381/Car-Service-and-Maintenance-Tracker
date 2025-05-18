@@ -1,6 +1,6 @@
 package lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.listner;
 
-import com.app.carmaintenance.car_maintenance.util.Config;
+import lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.util.Config;
 import jakarta.servlet.ServletContextEvent;
 import jakarta.servlet.ServletContextListener;
 import jakarta.servlet.annotation.WebListener;
