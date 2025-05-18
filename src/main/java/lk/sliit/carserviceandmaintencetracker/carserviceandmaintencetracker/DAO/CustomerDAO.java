@@ -1,8 +1,8 @@
 package lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.DAO;
 
-import com.app.carmaintenance.car_maintenance.model.CustomerModel;
-import com.app.carmaintenance.car_maintenance.util.Config;
-import com.app.carmaintenance.car_maintenance.util.FileUtil;
+import lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.model.CustomerModel;
+import lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.util.Config;
+import lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.util.FileUtil;
 
 import java.io.*;
 import java.util.ArrayList;
