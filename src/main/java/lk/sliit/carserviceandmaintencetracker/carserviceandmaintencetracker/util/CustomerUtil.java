@@ -1,6 +1,6 @@
 package lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.util;
 
-import com.app.carmaintenance.car_maintenance.model.CustomerModel;
+import lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.model.CustomerModel;
 import java.util.List;
 
 public class CustomerUtil {

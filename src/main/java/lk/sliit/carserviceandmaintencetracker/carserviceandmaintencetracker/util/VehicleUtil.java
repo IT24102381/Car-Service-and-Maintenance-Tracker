@@ -1,7 +1,7 @@
 package lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.util;
 
-import com.app.carmaintenance.car_maintenance.model.VehicleModel;
-import com.app.carmaintenance.car_maintenance.model.ServiceRecord;
+import lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.model.VehicleModel;
+import lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.model.ServiceRecord;
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;

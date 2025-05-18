@@ -1,4 +1,6 @@
 package lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.util;
+import lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.model.AppointmentModel;
+
 import java.io.*;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

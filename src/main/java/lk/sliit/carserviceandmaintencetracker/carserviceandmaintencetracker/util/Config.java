@@ -1,6 +1,6 @@
-package com.app.carmaintenance.car_maintenance.util;
+package lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.util;
 
-import com.app.carmaintenance.car_maintenance.model.AdminModel;
+import lk.sliit.carserviceandmaintencetracker.carserviceandmaintencetracker.model.AdminModel;
 import jakarta.servlet.ServletContext;
 
 import java.io.BufferedWriter;
